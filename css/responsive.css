@@ -1,0 +1,167 @@
+@media only screen and (max-width: 1199px) {
+	.header_logo a {
+    display: block;
+    width: 218px;
+}.sidenavs a {
+    font-size: 18px;
+}
+.header-social a {
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    margin-right: 7px;
+}
+body {
+    padding-top: 76px;
+}
+}
+
+@media only screen and (max-width: 991px) {
+	.sidenavs .closebtn {display: block;line-height: 25px;right: 0px;}
+	.header_navigation {padding: 0px 0 0px;}
+	ul.menu_navigation {display: inline-block;width: 100%;}
+	ul.menu_navigation li, ul.top-menu li {padding: 0;border-bottom: 1px solid #dddddd38;}
+	span.toggle_menu {height: 30px;display: inline-flex!important;align-items: center;}
+	ul.menu-btns li {padding: 10px 8px;width: 100%;}
+	span.toggle_menu {display: inline-block;color:  #c9171d;font-size: 30px;position: relative;right: 0;font-weight: 100;top: 0px;float: left;margin-left: 15px;}
+	.sidenavs {width: 0;position: fixed;background:#030000;top: 0;left: 0;display: inline-block;overflow-x: hidden;}
+	.sidenavs a , ul.top-menu a{padding: 10px 8px;display: flex;align-items: center;justify-content: space-between;white-space: nowrap;}
+	ul.menu_navigation a {width: 100%;margin-right: 0;}
+	.sidenavs .menu-btns a{display: block;text-align: center;}
+	.mid_menu_header {padding: 10px 0 10px 0;}
+	.top-brs .top-menu {display:block;border-bottom: 0;padding: 40px 0 0;}
+	ul.menu_navigation {padding-top: 50px;}
+	.top-brs a {font-size: 14px;margin-right: 13px;}
+	.top-brs.for-desk {display: none;}
+	.top-brs.for-mob {display: flex;}
+	body {padding-top: 48px;}
+	.top-brs.for-mob a.search-bar {margin-right: 0;}
+	.top-brs.for-mob a.search-bar i {font-size: 20px;font-weight: 300;}
+	ul.menu_navigation li {margin-right: 0;display: block;}
+	ul.menu_navigation li a{line-height: 40px;}
+	ul.menu_navigation li {line-height: 40px;}
+	.header_logo img {
+    max-width: 100%;
+    width: 220px;
+}
+.header_logo,.logo-cl,.header_logo a  {
+    width: 220px;display:block;
+}
+.header-social {
+    padding-right: 0;
+}	
+.header-social a:last-child {
+    margin-right: 0;
+}
+.main-head h1 {
+
+    font-size: 26px;
+
+}
+.join-para p {
+
+    font-size: 17px;
+    line-height: normal;
+}
+.join-para h4 {
+
+    font-size: 22px;
+
+}
+}
+
+@media only screen and (max-width: 767px) {
+.home-slider-main {
+    display: block;
+}.logo-banner {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+.main-head h1 {
+    text-align: center;
+}
+.main-head {
+    width: 100%;
+}
+.expr-card:after{content:none;}
+.sward-3 {
+
+
+  left: 44.4%;
+}
+}
+
+@media only screen and (max-width: 575px) {
+.menus {
+    display: flex;
+    flex-direction: column;
+    justify-content: initial;
+    align-items: flex-end;
+}
+.header-social a {
+  
+    height: 30px;
+    width: 30px;
+
+    font-size: 15px;
+
+    margin-right: 6px;
+
+}
+.header_logo img{
+    max-width: 100%;
+    width: 190px;
+}
+.header-social {
+    margin-bottom: 15px;
+}
+.logo-cl {
+    display: flex;
+}
+.header-social {
+    display: none;
+}
+span.toggle_menu {
+
+    top: 0px;
+}
+.main-head h1 {
+    font-size: 28px;
+}
+section.sec-two h2 {
+
+    margin-bottom: 50px;
+    font-size: 24px;
+}
+.right-main {
+    display: block;
+}
+.right-main {
+    display: block;
+}
+.copywrite p {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.footr-links ul {
+    text-align: center;
+}
+.right-le {
+    width: 100%;
+    padding-right: 0;
+}
+.img-gurant {
+    margin-top: 25px;
+}
+.sward-3 {
+    left: 43%;
+}
+}
+
+
+@media only screen and (max-width: 479px) {
+
+	
+}

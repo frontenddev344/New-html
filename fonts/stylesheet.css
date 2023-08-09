@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: 'Amasis MT';
+    src: url('../fonts/AmasisMT.eot');
+    src: url('../fonts/AmasisMT.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AmasisMT.woff2') format('woff2'),
+        url('../fonts/AmasisMT.woff') format('woff'),
+        url('../fonts/AmasisMT.ttf') format('truetype'),
+        url('../fonts/AmasisMT.svg#AmasisMT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
